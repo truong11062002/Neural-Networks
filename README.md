@@ -7,3 +7,4 @@ Trong phần này tôi chia thành 4 phần:
 - Fashion MNIST using LeNet5 model
 - CIFAR10 using MLP model
 - CIFAR10 using LeNet5 model
+(![Đây kiến trúc của LeNet5](https://cdn-images-1.medium.com/max/800/1*lvvWF48t7cyRWqct13eU0w.jpeg)
