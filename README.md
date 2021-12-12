@@ -9,3 +9,7 @@ Trong phần này tôi chia thành 4 phần:
 - CIFAR10 using LeNet5 model
 (![Đây kiến trúc của LeNet5](https://cdn-images-1.medium.com/max/800/1*lvvWF48t7cyRWqct13eU0w.jpeg)
 *Kiến trúc của LeNet5*
+<p>
+    <img src="https://cdn-images-1.medium.com/max/800/1*lvvWF48t7cyRWqct13eU0w.jpeg" alt>
+    <em>Kiến trúc của LeNet5</em>
+</p>
